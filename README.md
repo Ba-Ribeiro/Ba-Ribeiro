@@ -4,6 +4,6 @@
 
 🎓I have a degree in Accounting Sciences...
 
-📚I'm Studying Programming
+📚I'm Studying Programming.
 
 📫 How to reach me: babi_rib@hotmail.com
