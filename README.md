@@ -1,12 +1,12 @@
 ## Bárbara Ribeiro, Hey there 👋
 
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=kaka-jaques&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
+
 💻I am currently working with Credit Recovery...
 
 🎓I have a degree in Accounting Sciences...
 
 📚I'm Studying Programming.
-
-📫 How to reach me: babi_rib@hotmail.com
 
 Let's Connect 
 
