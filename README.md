@@ -16,10 +16,10 @@ Let's Connect
 <a href="https://www.instagram.com/invites/contact/?i=1dr70kfnbr819&utm_content=rrtpd5/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Ba-Ribeiro"
-    alt="gargakshit"
-  />
+<div align="center">
+  <a href="https://github.com/Ba-Ribeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ba-Ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ba-Ribeiro&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 
