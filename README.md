@@ -1,4 +1,4 @@
-## Bárbara Ribeiro, Hey there 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=22899F&center=true&width=600&height=80&lines=Hello+World%2C+it's+me%2C+Bárbara Ribeiro%F0%9F%8C%8E!)](https://git.io/typing-svg)
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=Ba-Ribeiro&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
