@@ -22,4 +22,6 @@ Let's Connect
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ba-Ribeiro&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-
+![Snake animation](https://github.com/Ba-Ribeiro/Ba-Ribeiro/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
